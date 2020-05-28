@@ -17,6 +17,11 @@
 	width: 60px;
 	height: 60px;
 }
+.contact-icon {
+  width: auto;
+  height: 45%;
+  margin-left: 5%;
+}
 /* Required for full background image */
 html,
 body,
